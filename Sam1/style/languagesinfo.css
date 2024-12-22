@@ -9,8 +9,6 @@
     font-weight: 500;
     line-height: 104%;
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
 }
 
 .languages-info__conteiner {
@@ -24,4 +22,12 @@
     background-color: #28D979;
     width: 168px;
     height: 11px;
+}
+
+.languages-info__item-text {
+    width: 84px;
+}
+
+.languages-info__progress.short {
+    width: 129px;
 }
