@@ -2,7 +2,6 @@
     width: 124px;
     display: flex;
     flex-direction: column;
-    align-self: center;
 }
 
 .tools-info__list {
@@ -40,7 +39,6 @@
 }
 
 .tools-info__tools-list-item{
-    height: 15px;
     flex: 0 50%;
     display: flex;
     box-sizing: border-box;
@@ -56,6 +54,3 @@
     padding-left: 8px;
 }
 
-.tools-info__icon {
-    height: 100%;
-}
