@@ -1,0 +1,9 @@
+.avatar-conteiner {
+    width: 124px;
+    border-radius: 12px;
+    height: 124px;
+}
+
+.avatar {
+    height: 124px;
+}
